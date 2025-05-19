@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/Welcome everybody"
-url: "https://CZ581.github.io"
+baseurl: "/"
+url: "https://cz581.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: CZ's Blog                                    # site's title
